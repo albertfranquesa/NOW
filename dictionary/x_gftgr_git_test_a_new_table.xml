@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="A new table" max_length="40" name="x_gftgr_git_test_a_new_table" type="collection">
+        <element label="Field in the table" max_length="40" name="field_in_the_table" type="string"/>
+        <element label="Value" max_length="40" name="value" type="integer"/>
+    </element>
+</database>

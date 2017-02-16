@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_gftgr_git_test_a_new_table</description>
+        <name>x_gftgr_git_test_a_new_table</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>albert.franquesa</sys_created_by>
+        <sys_created_on>2017-02-16 22:08:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>88464e680f01ba00d8f1715ce1050e47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_gftgr_git_test_a_new_table</sys_name>
+        <sys_package display_value="Git_Test" source="x_gftgr_git_test">1da402680f01ba00d8f1715ce1050e88</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Git_Test">1da402680f01ba00d8f1715ce1050e88</sys_scope>
+        <sys_update_name>sys_security_acl_88464e680f01ba00d8f1715ce1050e47</sys_update_name>
+        <sys_updated_by>albert.franquesa</sys_updated_by>
+        <sys_updated_on>2017-02-16 22:08:59</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

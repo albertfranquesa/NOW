@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="field_in_the_table" label="Field in the table" language="en" table="x_gftgr_git_test_a_new_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>field_in_the_table</element>
+            <help/>
+            <hint/>
+            <label>Field in the table</label>
+            <language>en</language>
+            <name>x_gftgr_git_test_a_new_table</name>
+            <plural>Field in the tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>albert.franquesa</sys_created_by>
+            <sys_created_on>2017-02-16 22:09:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>60464e680f01ba00d8f1715ce1050e51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Field in the table</sys_name>
+            <sys_package display_value="Git_Test" source="x_gftgr_git_test">1da402680f01ba00d8f1715ce1050e88</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Git_Test">1da402680f01ba00d8f1715ce1050e88</sys_scope>
+            <sys_update_name>sys_documentation_x_gftgr_git_test_a_new_table_field_in_the_table_en</sys_update_name>
+            <sys_updated_by>albert.franquesa</sys_updated_by>
+            <sys_updated_on>2017-02-16 22:09:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

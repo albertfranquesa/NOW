@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>albert.franquesa</sys_created_by>
+        <sys_created_on>2017-02-16 22:08:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c8464e680f01ba00d8f1715ce1050e48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_gftgr_git_test_a_new_table.x_gftgr_git_test_a_new_table_user</sys_name>
+        <sys_package display_value="Git_Test" source="x_gftgr_git_test">1da402680f01ba00d8f1715ce1050e88</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Git_Test">1da402680f01ba00d8f1715ce1050e88</sys_scope>
+        <sys_security_acl display_value="x_gftgr_git_test_a_new_table">88464e680f01ba00d8f1715ce1050e47</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c8464e680f01ba00d8f1715ce1050e48</sys_update_name>
+        <sys_updated_by>albert.franquesa</sys_updated_by>
+        <sys_updated_on>2017-02-16 22:08:59</sys_updated_on>
+        <sys_user_role display_value="x_gftgr_git_test_a_new_table_user" name="x_gftgr_git_test_a_new_table_user">7a3642680f01ba00d8f1715ce1050eb9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
